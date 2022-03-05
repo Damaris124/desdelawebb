@@ -1,0 +1,8 @@
+{
+  "name": "desdelawebb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c0e3f4cd"
+}
